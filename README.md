@@ -164,7 +164,7 @@ is executing. Just move the entire `data` directory into that cwd that was print
 It is not expected that Naive Bayes will classify every single
 test email correctly, but it should certainly do better than random chance! We are not grading you on whether you classify 100% of the examples accurately, but rather on general program correctness.
 
-After you've classified the 500 test emails, you can compare your results with the actual labels that we hid from you, by using the output checker [here](https://courses.cs.washington.edu/courses/cse312/19wi/nbc/checker.html).
+After you've classified the 500 test emails, you can compare your results with the actual labels that we hid from you, by using the output checker [here](https://courses.cs.washington.edu/courses/cse312/20wi/nbc/checker.html).
 
 For this specific test dataset, you should get an error score of **27** (total number of incorrectly classified emails). Note that we will run your code on a test dataset you haven't seen.
 
