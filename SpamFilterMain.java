@@ -74,6 +74,7 @@ public class SpamFilterMain {
 
             System.out.println("# Test results:");
             printClassificationResults(nb, tests);
+
         }
     }
 
